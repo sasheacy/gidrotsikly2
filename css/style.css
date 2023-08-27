@@ -627,9 +627,13 @@ p{
     display: inline;
 }
 
+.product{
+    margin-bottom: 80px;
+}
+
 .product__more{
     text-align: center;
-    margin: 35px 0 80px;
+    margin: 35px 0 0;
 }
 
 .product__more-link{
@@ -639,4 +643,9 @@ p{
     text-transform: uppercase;
     background: #f0f0f4;
     padding: 16px 43px;
+}
+
+.banner{
+    margin-bottom: 80px;
+    margin-top: 72px;
 }
